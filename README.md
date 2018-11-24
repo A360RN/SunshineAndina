@@ -1,4 +1,4 @@
-# SistemaGestionNegocio  
+# Sunshine Andina
 
 ## Dependencias:  
 
